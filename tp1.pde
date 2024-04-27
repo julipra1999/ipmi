@@ -1,3 +1,7 @@
+//PRATTI, JULIETA EDELWEISS
+//TP1
+//COMISIÓN 5
+
 PImage kiwi;
 void setup() {
   size(800, 400);
