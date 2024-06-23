@@ -1,7 +1,7 @@
 //PRATTI, JULIETA EDELWEISS
 //LEGAJO 83917/3
 //TP3 COM5
-//
+//https://youtu.be/elZ8_BN-n6M?si=wKj_KdV2f1kCu7-k
 
 PImage OpArt;
 int circulos = 90;
